@@ -1,0 +1,59 @@
+﻿  ball.cpp
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\ball.cpp(146,34): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\ball.cpp(146,27): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\ball.cpp(146,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  camera.cpp
+  filebackground.cpp
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(9,17): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(36,27): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(36,21): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(36,15): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(87,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(88,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(89,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(90,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(91,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(92,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(102,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(103,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(104,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(105,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(106,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(107,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(123,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(124,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\filebackground.cpp(125,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  graphical.cpp
+  源.cpp
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(53,68): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(53,51): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(53,36): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(60,68): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(60,51): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(60,36): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(201,66): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(201,51): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(201,32): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(204,65): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(204,50): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(204,32): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(210,61): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(210,46): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(210,29): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(213,65): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(213,50): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(213,32): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(222,70): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(222,55): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(222,36): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(225,69): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(225,54): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(225,36): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(233,70): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(233,55): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(233,36): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(379,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(385,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\jump\源.cpp(385,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  jump.vcxproj -> C:\Users\zyb15\Desktop\男人看了沉默\大四临时\github\jump\x64\Debug\jump.exe
